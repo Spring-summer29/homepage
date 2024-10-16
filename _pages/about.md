@@ -9,6 +9,8 @@ redirect_from:
 
 Huangsen Cao is currently pursuing a Master's degree in Software Engineering at Zhejiang University from 2024 to 2027. Huangsen Cao is part of [ Prof. Fei Wu's](https://person.zju.edu.cn/wufei/) research team and work under the supervision of  [ Prof. Yongwei Wang](https://enkiwang.github.io/). Previously, I obtained my Bachelor's degree in Software Engineering from Hunan University, where I studied from 2020 to 2024.
 
+Our team also collaborates closely with Baidu, Shanghai AI Lab, iFLYTEK, Alibaba, etc.
+
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
