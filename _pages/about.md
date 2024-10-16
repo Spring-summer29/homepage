@@ -68,5 +68,5 @@ Rich vertical field practice of AI models and experience in front-end and back-e
 
 Contact
 ------
-Email: huangsen_cao [at] zju [dot] edu [dot] cn
+Email: huangsen_cao@zju.edu.cn
 
