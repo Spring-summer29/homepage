@@ -21,16 +21,16 @@ Sept. 2024 - Jun. 2027: Master student at Zhejiang University.
 
 Publications
 ======
-Training-free LLM-generated Text Detection by Mining Token Probability Sequences
-Y. Xu, Y. Wang, Y. Bi, H. Cao, Z. Lin, Y. Zhao and F. Wu.
+▪ **Training-free LLM-generated Text Detection by Mining Token Probability Sequences**
+Y. Xu, Y. Wang, Y. Bi, <span style="color:red">H. Cao</span>, Z. Lin, Y. Zhao and F. Wu.
 Under review (2024).
 
-HyperDet: Generalizable Detection of Synthesized Images by Generating and Merging A Mixture of Hyper LoRAs
-H. Cao, Y. Wang, Y. Liu, S. Zheng, K. Lv, Z. Zhang, B. Zhang, X. Ding and F. Wu.
+▪ **HyperDet: Generalizable Detection of Synthesized Images by Generating and Merging A Mixture of Hyper LoRAs**
+<span style="color:red">H. Cao</span>, Y. Wang, Y. Liu, S. Zheng, K. Lv, Z. Zhang, B. Zhang, X. Ding and F. Wu.
 Under review (2024).
 
-Hyper Adversarial Tuning for Boosting Adversarial Robustness of Pretrained Large Vision Models 
-K. Lv, H. Cao, K. Tu, Y. Xu, Z. Zhang, X. Ding and Y. Wang.
+▪ **Hyper Adversarial Tuning for Boosting Adversarial Robustness of Pretrained Large Vision Models**
+K. Lv, <span style="color:red">H. Cao</span>, K. Tu, Y. Xu, Z. Zhang, X. Ding and Y. Wang.
 
 Under review (2024).
 Selected Honors Awarded
