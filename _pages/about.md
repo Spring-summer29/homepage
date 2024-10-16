@@ -31,8 +31,8 @@ Under review (2024).
 
 ▪ **Hyper Adversarial Tuning for Boosting Adversarial Robustness of Pretrained Large Vision Models**
 K. Lv, <span style="color:red">H. Cao</span>, K. Tu, Y. Xu, Z. Zhang, X. Ding and Y. Wang.
-
 Under review (2024).
+
 Selected Honors Awarded
 ======
 基于动态水利模型的管网智能预警系统(Intelligent early warning system for pipe network based on dynamic water conservancy model)——
