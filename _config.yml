@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "图片8.png"
+  avatar           : "profile.png"
   name             : "Huangsen cao（曹黄森）"
   pronouns         : # example: "she/her"  
   bio              : "AI researcher"
