@@ -14,12 +14,22 @@ Our team also collaborates closely with Baidu, Shanghai AI Lab, iFLYTEK, Alibaba
 Working&Learning Experience
 ======
 Sept. 2020 - Jun. 2024: Undergraduate student at Hunan University.
+
 Feb. 2024 - Aug. 2024: Algorithm intern at Shanghai Institute for Advanced Study, Zhejiang University.
+
 Sept. 2024 - Jun. 2027: Master student at Zhejiang University.
 
 Selected Honors Awarded
 ======
-基于动态水利模型的管网智能预警系统
+基于动态水利模型的管网智能预警系统(Intelligent early warning system for pipe network based on dynamic water conservancy model)——
+Provincial College Student Innovative Experimental Plan Project
+
+2023年华为软件精英挑战赛(2023 Huawei Software Elite Challenge)——Third Prize in Wu Chang Division
+
+2023年中国大学生计算机设计大赛(2023 China College Student Computer Design Competition)——Third Prize in Central and South Division
+
+基于知识追踪的学习测评方法研究(Research on learning assessment methods based on knowledge tracking)——School-level undergraduate innovative experimental plan project
+
 
 
 Site-wide configuration
