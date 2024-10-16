@@ -54,10 +54,6 @@ Provincial College Student Innovative Experimental Plan Project
 
 Professional Skills
 ------
-
-
-#Create content & metadata
-#------
 computer vision(cv)
 
 natural language processing(NLP)
@@ -68,15 +64,5 @@ Proficient in Python's torch framework, Java back-end technology, Vue front-end 
 
 Rich vertical field practice of AI models and experience in front-end and back-end development.
 
-**Markdown generator**
 
-.
-
-#How to edit your site's GitHub repository
-#------
-
-
-
-#For more info
-#------
 
