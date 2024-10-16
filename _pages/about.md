@@ -11,6 +11,8 @@ Huangsen Cao is currently pursuing a Master's degree in Software Engineering at 
 
 Our team also collaborates closely with Baidu, Shanghai AI Lab, iFLYTEK, Alibaba, etc. 
 
+Email: huangsen_cao@zju.edu.cn
+
 Working&Learning Experience
 ======
 Sept. 2020 - Jun. 2024: Undergraduate student at Hunan University.
