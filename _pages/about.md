@@ -11,7 +11,7 @@ Huangsen Cao is currently pursuing a Master's degree in Software Engineering at 
 
 Our team also collaborates closely with Baidu, Shanghai AI Lab, iFLYTEK, Alibaba, etc. 
 
-Email: huangsen_cao@zju.edu.cn
+
 
 Working&Learning Experience
 ======
@@ -66,5 +66,7 @@ Proficient in Python's torch framework, Java back-end technology, Vue front-end 
 
 Rich vertical field practice of AI models and experience in front-end and back-end development.
 
-
+Contact
+------
+Email: huangsen_cao@zju.edu.cn
 
