@@ -56,11 +56,11 @@ Provincial College Student Innovative Experimental Plan Project
 
 Professional Skills
 ------
-computer vision(cv)
+computer vision(CV)
 
 natural language processing(NLP)
 
-multimodal large language model(MLL)
+multimodal large language model(MLLM)
 
 Proficient in Python's torch framework, Java back-end technology, Vue front-end technology, and MySQL database.
 
